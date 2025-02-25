@@ -16,7 +16,7 @@ I am a **graduate student at Columbia University**, specializing in **Data Scien
 
 ## **Who I Am**
 ### **📌 Background**
-======
+------
 I have a strong foundation in **statistics, data science, and AI**, with hands-on experience in **data-driven product strategy and AI UX analysis**. My academic journey has shaped my ability to work on complex analytical challenges.
 
 ### **💼 Professional Experience**
