@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.png"
+  avatar           : "images/Profile.png"
   name             : "Jiaqi Guo"
   pronouns         : "she/her"  
   bio              : "MA Statistics @ Columbia | Data Scientist | AI & ML Researcher | Product & Data Strategy | Multi-modal Learning | AI-driven Decision Making"
