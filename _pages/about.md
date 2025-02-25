@@ -23,7 +23,6 @@ I have a strong foundation in **statistics, data science, and AI**, with hands-o
 ------
 - Worked as a **Data Analyst & Researcher** with expertise in **machine learning, AI-powered analytics, and statistical modeling**.
 - Experienced in **data-driven decision-making**, **AI UX design**, and **product analytics** for **AI systems**.
-- Experienced in **data-driven decision-making** and **product analytics for AI systems**.
 - Contributed to projects involving **bias detection in AI models, predictive analytics, and operational optimization**.
   
 ### **🎯 Personal Interests**
