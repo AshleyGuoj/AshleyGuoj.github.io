@@ -23,6 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.png"
+  avatar_style     : "width: 150px; height: 150px; border-radius: 50%;"
   name             : "Jiaqi Guo"
   pronouns         : "she/her"  
   bio              : "MA Statistics @ Columbia | Data Scientist | AI & ML Researcher | Product & Data Strategy | Multi-modal Learning | AI-driven Decision Making"
