@@ -19,7 +19,7 @@ Who I Am
 
 ### **📌 Background**
 ------
-Data tells a story—and I make sure it's heard.
+**Data tells a story—and I make sure it's heard.**
 
 With a strong foundation in statistics, data science, and AI, I bring hands-on experience in data-driven product strategy, marketing analytics, and AI UX research. My background blends quantitative analysis with business intuition, equipping me to turn complex data into compelling strategies that drive engagement, retention, and revenue growth.
 
@@ -34,7 +34,7 @@ I thrive in fast-paced, data-rich environments where insights power decisions. W
   
 ### **🎯 Personal Interests**
 ------
-Outside of my professional life, I enjoy **boxing, photography, and exploring AI applications in real-world decision-making**.
+Outside of my professional life, I enjoy boxing, photography, and exploring AI applications in real-world decision-making.
 
 ## **My Journey & Mission**
 ------
@@ -44,4 +44,4 @@ I’m passionate about bridging the gap between AI-driven decision-making and us
 
 ## **Let’s Connect**
 ------
-I love discussing **AI, data science, and product analytics** with like-minded professionals. If you’re looking for someone who can turn raw data into strategic impact, let’s chat! 🚀
+I love discussing AI, data science, and product analytics with like-minded professionals. If you’re looking for someone who can turn raw data into strategic impact, let’s chat! 🚀
