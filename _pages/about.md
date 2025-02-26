@@ -10,14 +10,14 @@ redirect_from:
 About Me
 ------
 ### **Hello, I’m Jiaqi Guo!**
-I am a **graduate student majoring in Statistics at Columbia University**, specializing in **Data Science, AI, and Product Analytics**. My expertise lies in **statistical modeling, machine learning, and AI-driven decision-making**. I’m passionate about **leveraging data to optimize product strategies, enhance AI user experiences, and drive AI-powered business insights**. With a strong foundation in analytics and a keen interest in user behavior, I strive to bridge the gap between **data, technology, and human-centered innovation**.
+I am a graduate student majoring in Statistics at **Columbia University**, specializing in **Data Science, AI, and Product Analytics**. My expertise includes statistical modeling, machine learning, and AI-driven decision-making. I’m passionate about leveraging data to **optimize product strategies, enhance AI user experiences, and drive business insights**. With a strong foundation in analytics and a keen interest in user behavior, I strive to bridge the gap between **data, technology, and human-centered innovation**.  
 
 Who I Am
 ------
 
 ### **📌 Background**
 ------
-I have a strong foundation in **statistics, data science, and AI**, with hands-on experience in **data-driven product strategy, marketing analytics, and AI UX research**. My background combines **quantitative analysis and business acumen**, enabling me to **translate complex data into actionable strategies**. I thrive at the intersection of **AI, product optimization, and user experience**, using data to drive business decisions and enhance consumer engagement.
+I have a strong foundation in statistics, data science, and AI, with hands-on experience in **data-driven product strategy, marketing analytics, and AI UX research**. My background combines quantitative analysis with business acumen, enabling me to translate complex data into **actionable strategies**. I thrive at the intersection of AI, product optimization, and user experience, using data to **drive impactful decisions and enhance consumer engagement**.
 
 ### **💼 Professional Experience**
 ------
