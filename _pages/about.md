@@ -38,8 +38,10 @@ Outside of my professional life, I enjoy **boxing, photography, and exploring AI
 
 ## **My Journey & Mission**
 ------
-Throughout my academic and professional experiences, I have developed a **deep interest in AI fairness, model interpretability, and human-centered AI**. My goal is to bridge the gap between **data science, AI-driven decision-making, and user experience**.
+**AI should empower, not replace.** Throughout my journey, I’ve explored AI fairness, model interpretability, and human-centered AI, striving to make data more accessible, meaningful, and actionable.
+
+I’m passionate about bridging the gap between AI-driven decision-making and user experience, ensuring that technology enhances—not alienates—the human experience.
 
 ## **Let’s Connect**
 ------
-I am always open to **exciting opportunities in AI, data science, and product analytics**. Let’s connect!
+I love discussing **AI, data science, and product analytics** with like-minded professionals. If you’re looking for someone who can turn raw data into strategic impact, let’s chat! 🚀
