@@ -10,14 +10,20 @@ redirect_from:
 About Me
 ------
 ### **Hello, I’m Jiaqi Guo!**
-I am a graduate student majoring in Statistics at **Columbia University**, specializing in **Data Science, AI, and Product Analytics**. My expertise includes statistical modeling, machine learning, and AI-driven decision-making. I’m passionate about leveraging data to **optimize product strategies, enhance AI user experiences, and drive business insights**. With a strong foundation in analytics and a keen interest in user behavior, I strive to bridge the gap between **data, technology, and human-centered innovation**.  
+I am a graduate student in Statistics at Columbia University, specializing in Data Science, AI, and Product Analytics. My expertise spans statistical modeling, machine learning, and AI-driven decision-making, but what excites me most is using data to shape real-world product strategies and enhance user experiences.
+
+I believe the best AI solutions are not just technically powerful but deeply user-centric—and I thrive at the intersection of data, business, and human behavior. By bridging analytical rigor with strategic thinking, I help transform insights into high-impact decisions that optimize product performance and drive business growth. 
 
 Who I Am
 ------
 
 ### **📌 Background**
 ------
-I have a strong foundation in statistics, data science, and AI, with hands-on experience in **data-driven product strategy, marketing analytics, and AI UX research**. My background combines quantitative analysis with business acumen, enabling me to translate complex data into **actionable strategies**. I thrive at the intersection of AI, product optimization, and user experience, using data to **drive impactful decisions and enhance consumer engagement**.
+Data tells a story—and I make sure it's heard.
+
+With a strong foundation in statistics, data science, and AI, I bring hands-on experience in data-driven product strategy, marketing analytics, and AI UX research. My background blends quantitative analysis with business intuition, equipping me to turn complex data into compelling strategies that drive engagement, retention, and revenue growth.
+
+I thrive in fast-paced, data-rich environments where insights power decisions. Whether it's optimizing AI systems, refining user experience, or enhancing marketing strategies, my goal is to unlock measurable value through data.
 
 ### **💼 Professional Experience**
 ------
