@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaqi Guo's Website"
+title: "Welcome to Jiaqi Guo's Website"
 author_profile: true
 redirect_from: 
   - /about/
